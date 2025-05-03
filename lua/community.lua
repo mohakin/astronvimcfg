@@ -8,15 +8,8 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.colorscheme.aurora" },
   { import = "astrocommunity.colorscheme.bamboo-nvim" },
   { import = "astrocommunity.colorscheme.catppuccin" },
-  { import = "astrocommunity.colorscheme.cyberdream-nvim" },
-  { import = "astrocommunity.colorscheme.everblush-nvim" },
-  { import = "astrocommunity.colorscheme.fluoromachine-nvim" },
-  { import = "astrocommunity.colorscheme.gruvbox-nvim" },
-  { import = "astrocommunity.colorscheme.horizon-nvim" },
   { import = "astrocommunity.colorscheme.kanagawa-nvim" },
-  { import = "astrocommunity.colorscheme.kanagawa-paper-nvim" },
   -- import/override with your plugins folder
 }
